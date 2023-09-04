@@ -741,6 +741,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "d847fca8-2eda-4fba-93b5-500e4fee3254",
+            "title": "مميزات المتجر",
+            "icon": "sicon-store",
+            "path": "home.store-features",
+            "fields": []
         }
     ],
     "support_url": null,
